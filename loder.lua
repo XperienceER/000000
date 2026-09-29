@@ -4,7 +4,7 @@ end
 
 local scripts = {
     [142823291] = "https://raw.githubusercontent.com/XperienceER/000000/refs/heads/main/Murder%20Mystery%202.lua", -- Murder Mystery 2
-    [124216119978534] = "", -- Ride a Pet
+    [124216119978534] = "https://raw.githubusercontent.com/XperienceER/000000/refs/heads/main/Ride%20a%20Pet.lua", -- Ride a Pet
     [537413528] = "https://raw.githubusercontent.com/XperienceER/000000/refs/heads/main/Build%20a%20Boat%20For%20Treasure.lua"  -- Build a Boat For Treasure
 }
 
