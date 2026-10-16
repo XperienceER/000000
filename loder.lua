@@ -89,7 +89,8 @@ local files = {
     }
 }
 
-local selected = files[game.PlaceId]
+-- ตรวจสอบทั้ง PlaceId และ GameId เพื่อความแม่นยำ
+local selected = files[game.PlaceId] or files[game.GameId]
 
 if not selected then
     return stop()
